@@ -1,0 +1,54 @@
+/* GENERAL */
+body{
+    margin:0;
+    padding: 0;
+}
+
+.container{
+  width: 70%;
+  margin: auto;
+    text-align: center;
+}
+
+h1, h3, strong{
+  font-family: 'Bitter', serif;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+h2{
+  font-family: 'Bitter', serif;
+  margin-top: 1%;
+}
+
+.sep{
+    border-bottom: 3px inset #333;
+}
+
+/* HEADER */
+
+.header-intro{
+  font-style: italic;
+}
+
+header a{
+  float: left;
+}
+
+/* COMPETENCES */
+
+.competences ul li{
+  list-style: none;
+}
+
+/* DIVERS */
+
+.divers ul li{
+  list-style: none;
+}
+
+/* DECO */
+.deco{
+  height: 100px;
+  background-color: #333;
+}
